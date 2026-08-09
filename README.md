@@ -58,3 +58,5 @@
 Как я писал в задании выше, Network в GitHub обновляется раз в день, но ссылку все равно прикладываю: \
 https://github.com/beeasierbebetter/devops-netology/network \
 Но убедиться в выполнении мной задания можно по истории коммитов
+
+<img src = "img/02-030.png" width = 100%>
